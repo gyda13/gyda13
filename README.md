@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Gyda</h1>
-<h3 align="center">iOS developer, Web developer</h3>
+<h3 align="center">iOS, Web developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
