@@ -22,4 +22,4 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gyda13" alt="gyda13"  /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyda13&label=Profile%20views&color=0e75b6&style=flat" alt="gyda13" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyda13&label=Profile%20views&color=0e75b6&style=flat" alt="gyda13" /> </p> -->
