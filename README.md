@@ -3,7 +3,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyda13&hide=javascript&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyda13&hide=javascript&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=gyda13&" alt="gyda13" /></p> -->
 <!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=gyda13&show_icons=true&locale=en" alt="gyda13" /></p> -->
