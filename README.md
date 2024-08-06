@@ -6,14 +6,19 @@
 - **Java Frameworks**: Spring Boot, Micronaut
 - **Swift - Backend**: Vapor
 - **Mobile Development**: iOS (SwiftUI)
+- **Messaging Systems**: Kafka, RabbitMQ
+- **Containerization**: Docker
+<!-- 
 - **Data Management**: Microsoft SQL Server, PostgreSQL, Redis
 - **ORM**: JPA, Hibernate, MyBatis, Fluent
 - **Database Migration**: Flyway
-- **Messaging Systems**: Kafka
-- **Containerization**: Docker
+-->
 
 ## Articles
 [Establishing an FTP Server Using Docker and Accessing It via Spring Boot](https://medium.com/@gydamohaimeed/b9a87b389bb5).
+
+[Logging and Tracing in Micronaut Microservices: Using ELK and Jaeger](https://medium.com/@gydamohaimeed/enhanced-logging-and-tracing-in-micronaut-microservices-ae5af7d68c06).
+
 
 <!-- 
 
